@@ -21,4 +21,11 @@
 
 
   <p class="powered-by">
-    Copyright &copy; Yue Zhao; Last update July 2019; &middot; 
+    Copyright &copy; Yue Zhao; Last update July 2019; &middot;
+
+
+# change base_url in config.toml
+# check hugo serve
+# build by hugo
+# add the tracker code in index.html
+# upload!
