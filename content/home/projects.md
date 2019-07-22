@@ -3,9 +3,9 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
-title = "Projects"
+title = "Software"
 subtitle = ""
 
 [content]
@@ -41,7 +41,7 @@ subtitle = ""
   #   1 = List
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -73,4 +73,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+I am an enthusiastic open-source developer: I build **machine learning libraries and systems**. 
+Specifically, I initialized [Python Outlier Detection library (PyOD)](https://github.com/pyod) in 2018, 
+which has become the most popular Python outlier detection toolkit. 
+I also initialized [combo: A python Toolbox for ML Combination Methods](https://github.com/yzhao062/combo) in July 2019--it is currently under active development. Watch/Star/Follow welcome!
 
