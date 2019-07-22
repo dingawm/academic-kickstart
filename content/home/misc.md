@@ -78,12 +78,3 @@ I am a dedicated technical writer with more than 200 articles (in Chinese) and 7
 also known as Chinese Quora with more them 200 million registered users. 
 I have been recognized as a Top Zhihu Writer (优秀回答者) in four fields (AI, ML, DM, and STAT). See my [Zhihu page](https://www.zhihu.com/people/breaknever/).
 
-<!-- Begin Web-Stat code v 6.3 -->
-<span id="wts1866123">&nbsp;</span><script>
-var wts=document.createElement('script');wts.type='text/javascript';
-wts.async=true;wts.src='https://wts.one/5/1866123/log6_2.js';
-document.getElementById('wts1866123').appendChild(wts);
-</script><noscript><a href="https://www.web-stat.com">
-<img src="https://wts.one/6/5/1866123.gif" 
-alt="Web-Stat web traffic analysis"></a></noscript>
-<!-- End Web-Stat code v 6.3 -->
