@@ -66,6 +66,28 @@ subtitle = ""
  css_class = ""
 +++
 
+### Working Papers
+
+[w18a] DivBoost: Constructing Effective Outlier Ensembles by Base Learner Diversity Maximization
+
+[w19a] HD-Cluster: Synthesized Cluster Analysis and Outlier Detection on High-dimensional Data
+
+
+### Under Review
+
+[w19b] [*Name masked due to double blind review policy]
+*International Conference on Computer Vision (ICCV)*, 2019. Submitted, under review.
+
+[w19c] [A new statistical model. *Name masked due to double blind review policy]
+*AAAI Conference on Artificial Intelligence (AAAI)*, 2019. Submitted, under review.
+
+</br>
+
+----
+
+
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
+
+

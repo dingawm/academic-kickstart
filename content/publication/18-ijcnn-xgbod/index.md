@@ -49,7 +49,7 @@ links:
   url: https://ieeexplore.ieee.org/document/8489605
   
 url_pdf: papers/18-ijcnn-xgbod.pdf
-url_code:
+url_code: https://github.com/yzhao062/XGBOD
 url_dataset:
 url_poster:
 url_project: 
