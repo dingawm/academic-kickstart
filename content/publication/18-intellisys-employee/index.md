@@ -3,7 +3,7 @@
 
 title: "Employee Turnover Prediction with Machine Learning: A Reliable Approach"
 authors: 
-- admin
+- Yue Zhao
 - Maciej K. Hryniewicki
 - Francesca Cheng
 - Boyang Fu

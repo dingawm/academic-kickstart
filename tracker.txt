@@ -26,6 +26,7 @@
 
 # change base_url in config.toml
 # check hugo serve
+# change base_url in config.toml
 # build by hugo
 # add the tracker code in index.html
 # upload!

@@ -3,7 +3,7 @@
 
 title: "XGBOD: Improving Supervised Outlier Detection with Unsupervised Representation Learning"
 authors: 
-- admin
+- Yue Zhao
 - Maciej K. Hryniewicki
 
 

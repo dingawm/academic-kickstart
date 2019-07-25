@@ -3,7 +3,7 @@
 
 title: "DCSO: Dynamic Combination of Detector Scores for Outlier Ensembles"
 authors: 
-- admin
+- Yue Zhao
 - Maciej K. Hryniewicki
 
 

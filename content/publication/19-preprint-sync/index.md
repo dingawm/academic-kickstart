@@ -5,7 +5,7 @@ title: "SynC: A Unified Framework for Generating Synthetic Population with Gauss
 authors: 
 - Colin Wan
 - Zheng Li
-- admin
+- Yue Zhao
 
 
 #date: 2019-06

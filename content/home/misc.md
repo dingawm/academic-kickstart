@@ -49,11 +49,11 @@ title = "Miscellaneous"
 
 ### <u>News & Travel</u>
 
-<span style="color:green">July 2019</span>: I initialized a new Python toolbox called combo for the easy use of combination methods in machine learning.
+<span style="color:green">July 2019</span>: I initialized a new Python toolbox, [combo](https://github.com/yzhao062/combo), for the easy use of combination methods in machine learning.
 
 <span style="color:green">Jun & Jul 2019</span>: I am taking vacation in China with limited bandwidth :)
 
-<span style="color:green">May 27th, 2019</span>: Our paper on anomaly detection tool, PyOD, is published in Journal of Machine Learning Research (JMLR). 
+<span style="color:green">May 27th, 2019</span>: [Our paper]((papers/19-jmlr-pyod.pdf)) on anomaly detection tool, [PyOD](https://github.com/yzhao062/pyod), is published in Journal of Machine Learning Research (JMLR). 
 
 <span style="color:green">Mar 7th, 2019</span>: Our paper on music artist classification with deep net is accepted at International Joint Conference on Neural Networks (IJCNN).
 

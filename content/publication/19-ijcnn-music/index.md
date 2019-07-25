@@ -3,7 +3,7 @@
 
 title: "Music Artist Classification with Convolutional Recurrent Neural Networks"
 authors: 
-- admin
+- Yue Zhao
 - Zain Nasrullah
 
 

@@ -3,7 +3,7 @@
 
 title: "Locally Selective Combination in Parallel Outlier Ensembles"
 authors: 
-- admin
+- Yue Zhao
 - Zain Nasrullah
 - Maciej K. Hryniewicki
 - Zheng Li

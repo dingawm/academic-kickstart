@@ -3,7 +3,7 @@
 
 title: "PyOD: A Python Toolbox for Scalable Outlier Detection"
 authors: 
-- admin
+- Yue Zhao
 - Zain Nasrullah
 - Zheng Li
 
