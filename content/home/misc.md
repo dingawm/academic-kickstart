@@ -51,25 +51,13 @@ title = "Miscellaneous"
 
 <span style="color:green">July 2019</span>: I initialized a new Python toolbox, [combo](https://github.com/yzhao062/combo), for the easy use of combination methods in machine learning.
 
-<span style="color:green">Jun & Jul 2019</span>: I am taking vacation in China with limited bandwidth :)
+<span style="color:green">May 27th, 2019</span>: [Our paper](papers/19-jmlr-pyod.pdf) on anomaly detection tool, [PyOD](https://github.com/yzhao062/pyod), is published in Journal of Machine Learning Research (JMLR). 
 
-<span style="color:green">May 27th, 2019</span>: [Our paper]((papers/19-jmlr-pyod.pdf)) on anomaly detection tool, [PyOD](https://github.com/yzhao062/pyod), is published in Journal of Machine Learning Research (JMLR). 
-
-<span style="color:green">Mar 7th, 2019</span>: Our paper on music artist classification with deep net is accepted at International Joint Conference on Neural Networks (IJCNN).
+<span style="color:green">Mar 7th, 2019</span>: [Our paper](papers/19-ijcnn-music.pdf) on music artist classification with deep net is accepted at International Joint Conference on Neural Networks (IJCNN).
 
 <span style="color:green">Feb 22nd, 2019</span>: I received and accepted a Ph.D. offer from Carnegie Mellon University. See you in Pittsburgh soon :)
 
-<span style="color:green">Dec 21st, 2018</span>: Our paper on outlier ensemble, LSCP, is accepted at SIAM International Conference on Data Mining (SDM).
-
-
-### <u>Research Interest</u>
-
-Data mining and knowledge discovery **algorithms, systems, applications**, 
-and their implications to decision process and policy-making. Specifically, my interests are:
-
-1. proposing fundamental **algorithms** to tackle complex problems, including anomaly detection, ensemble learning, and clustering.
-2. designing scalable machine learning **systems** with performance optimization instruments, e.g., parallelization and JIT.
-3. marrying data mining with other areas (such as healthcare and finance) to build **applications** and understand their **implications** to decision making, public policy, social welfare, and society as a whole.
+<span style="color:green">Dec 21st, 2018</span>: [Our paper](papers/19-sdm-lscp.pdf) on outlier ensemble, LSCP, is accepted at SIAM International Conference on Data Mining (SDM).
 
 
 ### <u>Fun Facts</u>

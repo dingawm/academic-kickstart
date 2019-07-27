@@ -58,7 +58,10 @@ social:
 #  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.ca/citations?user=zoGDYsoAAAAJ&hl=en&oi=ao
+  link: https://scholar.google.ca/citations?user=zoGDYsoAAAAJ
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-3401-4921
 - icon: github
   icon_pack: fab
   link: https://github.com/yzhao062
@@ -85,7 +88,13 @@ email: ""
 ---
 
 I am an incoming Ph.D. student at H. John Heinz III College, Carnegie Mellon University (Fall 2019). 
-I will be part of [Data Analytics Techniques Algorithms (DATA) Lab](https://datalab.heinz.cmu.edu/) directed by 
+I will be a member of [Data Analytics Techniques Algorithms (DATA) Lab](https://datalab.heinz.cmu.edu/) directed by 
 [Prof. Leman Akoglu](https://www.andrew.cmu.edu/user/lakoglu/). 
-My research focuses on data mining algorithms and applications, specifically on outlier & anomaly detection, ensemble learning, and clustering. 
 
+My research focuses on data mining **algorithms**, **systems**, **applications**, 
+and **implications** to decision process and policy-making:
+
+
+1. proposing fundamental **algorithms** to tackle complex problems, including outlier & anomaly detection, ensemble learning, and clustering.
+2. designing scalable machine learning **systems** with performance optimization instruments, e.g., parallelization and JIT.
+3. marrying data mining with other areas (such as healthcare and finance) to build **applications** and understand their **implications** to decision making, public policy, social welfare, and society as a whole.
