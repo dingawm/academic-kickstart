@@ -1,6 +1,6 @@
 ---
 title: combo
-summary: A Python Toolbox for Combination Tasks in Machine Learning
+summary: A Python Toolbox for Machine Learning Model Combination
 tags:
 - Machine Learning
 date: "2019-07-17T00:00:00Z"

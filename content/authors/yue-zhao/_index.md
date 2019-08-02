@@ -89,12 +89,15 @@ email: ""
 
 I am an incoming Ph.D. student at H. John Heinz III College, Carnegie Mellon University (Fall 2019). 
 I will be a member of [Data Analytics Techniques Algorithms (DATA) Lab](https://datalab.heinz.cmu.edu/) directed by 
-[Prof. Leman Akoglu](https://www.andrew.cmu.edu/user/lakoglu/). 
-
-My research focuses on data mining **algorithms**, **systems**, **applications**, 
+[Prof. Leman Akoglu](https://www.andrew.cmu.edu/user/lakoglu/). My research focuses on data mining **algorithms**, **systems**, **applications**, 
 and **implications** to decision process and policy-making:
 
 
 1. proposing fundamental **algorithms** to tackle complex problems, including outlier & anomaly detection, ensemble learning, and clustering.
 2. designing scalable machine learning **systems** with performance optimization instruments, e.g., parallelization and JIT.
-3. marrying data mining with other areas (such as healthcare and finance) to build **applications** and understand their **implications** to decision making, public policy, social welfare, and society as a whole.
+3. marrying data mining with other areas (such as healthcare and finance) to build **applications** and understand their **implications**.
+
+I am a **top 0.1% Python developer worldwide** (420 out of 589,641) ranked by [Git-Awards](http://git-awards.com/users/search?login=yzhao062). 
+I am also a dedicated technical writer with more than 200 articles (in Chinese) and 78,000 followers on [Zhihu (知乎)](https://en.wikipedia.org/wiki/Zhihu), 
+a.k.a. Chinese Quora (200 million+ registered users). 
+Since 2018, I have been officially recognized as a "Top Zhihu Writer" (优秀回答者) in four fields (AI, ML, DM, and STAT). See my [Zhihu page](https://www.zhihu.com/people/breaknever/).

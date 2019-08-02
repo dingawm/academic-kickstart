@@ -77,6 +77,6 @@ subtitle = ""
 I am an enthusiastic open-source developer: I build **machine learning libraries and systems**. 
 Specifically, I initialized [Python Outlier Detection library (PyOD)](https://github.com/pyod) in 2018, 
 which has become the most popular Python outlier detection toolkit. 
-I also initialized [combo: A python Toolbox for ML Combination Methods](https://github.com/yzhao062/combo) in July 2019--
+I also initialized [combo: A Python Toolbox for Machine Learning Model Combination](https://github.com/yzhao062/combo) in July 2019--
 it is currently under active development. [<span style="color:red">Watch/Star/Follow welcome!</span>](https://github.com/yzhao062/combo)
 

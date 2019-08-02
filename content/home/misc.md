@@ -59,10 +59,3 @@ title = "Miscellaneous"
 
 <span style="color:green">Dec 21st, 2018</span>: [Our paper](papers/19-sdm-lscp.pdf) on outlier ensemble, LSCP, is accepted at SIAM International Conference on Data Mining (SDM).
 
-
-### <u>Fun Facts</u>
-
-I am a dedicated technical writer with more than 200 articles (in Chinese) and 75,000 followers on [Zhihu (知乎)](https://en.wikipedia.org/wiki/Zhihu), 
-also known as Chinese Quora with more them 200 million registered users. 
-I have been recognized as a Top Zhihu Writer (优秀回答者) in four fields (AI, ML, DM, and STAT). See my [Zhihu page](https://www.zhihu.com/people/breaknever/).
-
